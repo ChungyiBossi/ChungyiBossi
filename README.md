@@ -5,7 +5,7 @@
 | 把ETF包起來 | [連結](https://github.com/Allen43171/2024_project)|
 | 寵物MK-I | [連結](https://github.com/Kumo1e/hfu_project/tree/main)|
 | 小試衣裝 |[連結](https://github.com/cj20200112/shirt)|
-| 即食隨行 |[連結]()|
+| 隨食即行 |[連結](https://docs.google.com/presentation/d/1vRNJYKHRCBHXmhD9bvRmziormBp_-glw/edit?usp=sharing&ouid=106659503145395898140&rtpof=true&sd=true)|
 | 台中吃飽 |[連結](https://github.com/Maverick80573/2024_Project/tree/main?tab=readme-ov-file#2024_project)|
 | 智能管家 | [連結](https://github.com/OLDTHINKER1122/Smart_Garden)|
 
