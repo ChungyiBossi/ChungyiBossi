@@ -2,10 +2,10 @@
 ## 2024 (冬) - 產業新尖兵
 |  題目  | Github 連結 |
 |  ----  | ---- |
-| 廟宇數位靈 | [連結]()|
-| 攝影輕旅行小助手 | [連結]()|
-| 智慧點餐系統 | [連結]()|
-| 狗狗飲食Linebot | [連結]()|
+| 廟宇數位靈 | [連結](https://drive.google.com/file/d/1zPtcL3ZdXKMqBzeMcuwSGSagz1FibaXX/view?usp=drive_link)|
+| 攝影輕旅行小助手 | [連結](https://github.com/JimKaii/PythonProject)|
+| 智慧點餐系統 | [連結](https://github.com/angeloange/smartorder_system?tab=readme-ov-file )|
+| 狗狗飲食Linebot | [連結](https://www.canva.com/design/DAGg6bkS1Ek/KTvjate_6cgtzTBFZqKQ8A/edit)|
 
 
 ## 2024（夏）- 產業新尖兵
