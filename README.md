@@ -1,4 +1,17 @@
 # 職訓專案 (New -> Old)
+## 2025 (夏天) - 產業新尖兵
+|  題目  | Github 連結 |
+|  ----  | ---- |
+| 集成履歷網站 | [連結](https://drive.google.com/file/d/18f_nSzdFAK7D5U-mo9KtQmwHk3uIgVkF/view?usp=drive_link)|
+| AI影像辨識心得 | [連結](https://drive.google.com/file/d/14nOJ-kgHAzQNoC84_mOK4ZuSJnZIPHtO/view?usp=drive_link)|
+| 生成式AI心得簡報 | [連結](https://www.canva.com/design/DAGxzvaKqQ8/Or0rbA7OaubOpTb2UZu2Sw/view?utm_content=DAGxzvaKqQ8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=heb17b08c3b)|
+| 智慧輔導心得簡報 | [連結](https://www.canva.com/design/DAGychPjS0I/4QnNZlbG5hTMK3msI3Hvhw/view?utm_content=DAGychPjS0I&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h091aa09487)|
+| 假新聞辨識 | [連結](https://drive.google.com/file/d/1QsXNtyrcOkX3nX2z12eK0mgtJRAwad4O/view?usp=drive_link)|
+| 遊戲資訊爬蟲 | [連結](https://drive.google.com/file/d/1iIq979ud-lw868EugXqaeek1dKMEfemJ/view?usp=drive_link)|
+| 生成式AI串聯心得 | [連結](https://drive.google.com/file/d/1PQ1MZOyFj8IdI7bt5HQZd_rxBYlmnSuV/view?usp=drive_link)|
+
+
+
 ## 2024 (冬) - 產業新尖兵
 |  題目  | Github 連結 |
 |  ----  | ---- |
