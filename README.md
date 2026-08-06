@@ -1,4 +1,10 @@
 # 職訓專案 (New -> Old)
+## 2026 (夏天) - Gjun
+|  題目  | Github 連結 |
+|  ----  | ---- |
+| Titanic | [連結](https://github.com/ChungyiBossi/GjunDataAnaysis)|
+| Spotify Song Recommandation | [連結](https://github.com/ChungyiBossi/GjunDataAnaysis)|
+
 ## 2025 (夏天) - 產業新尖兵
 |  題目  | Github 連結 |
 |  ----  | ---- |
